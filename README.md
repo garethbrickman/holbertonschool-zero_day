@@ -1,1 +1,1 @@
-My first **Markdown** text! It can be in *italic* and feature [hyperlinks](http://google.com)
+This repo contains all the directories and files for my first project at **Holberton!**
