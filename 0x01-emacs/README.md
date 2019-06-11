@@ -1,0 +1,1 @@
+This is a README for my Emacs project! We are learning how to use Emacs to edit and create text and code and then push these changes via Git
